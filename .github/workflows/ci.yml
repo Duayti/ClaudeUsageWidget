@@ -1,0 +1,24 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Python tests
+        run: /usr/bin/python3 -I -m unittest discover -s tools -p 'test_*.py' -v
+
+      - name: Swift tests
+        run: |
+          xcodebuild test \
+            -project ClaudeUsageWidget.xcodeproj \
+            -scheme ClaudeUsageWidget \
+            -destination 'platform=macOS' \
+            -derivedDataPath build/DerivedData \
+            CODE_SIGN_IDENTITY=-

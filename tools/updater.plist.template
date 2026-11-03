@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  Template for the LaunchAgent that recomputes ~/.claude/usage-widget.json every 12 hours.
+  tools/install_updater.sh fills in __LABEL__ and __HOME__ and installs the result in ~/Library/LaunchAgents.
+  The script is copied to ~/Library/Application Support/ClaudeUsageWidget/ because ~/Documents is protected
+  by TCC: a launchd agent cannot read there without Full Disk Access and would fail silently.
+-->
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>__LABEL__</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/usr/bin/python3</string>
+		<string>-I</string>
+		<string>__HOME__/Library/Application Support/ClaudeUsageWidget/update_usage.py</string>
+	</array>
+	<key>StartInterval</key>
+	<integer>43200</integer>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>Nice</key>
+	<integer>10</integer>
+	<key>LowPriorityIO</key>
+	<true/>
+	<key>StandardOutPath</key>
+	<string>__HOME__/Library/Logs/ClaudeUsageWidget.log</string>
+	<key>StandardErrorPath</key>
+	<string>__HOME__/Library/Logs/ClaudeUsageWidget.log</string>
+</dict>
+</plist>

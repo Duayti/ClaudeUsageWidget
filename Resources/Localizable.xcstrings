@@ -1,0 +1,846 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ messages" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ mensajes"
+          }
+        }
+      }
+    },
+    "%@ sessions" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ sesiones"
+          }
+        }
+      }
+    },
+    "%@ tokens" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ tokens"
+          }
+        }
+      }
+    },
+    "14 days" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "14 días"
+          }
+        }
+      }
+    },
+    "30 days" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 días"
+          }
+        }
+      }
+    },
+    "7 days" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "7 días"
+          }
+        }
+      }
+    },
+    "About %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acerca de %@"
+          }
+        }
+      }
+    },
+    "All models" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todos los modelos"
+          }
+        }
+      }
+    },
+    "All time" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todo"
+          }
+        }
+      }
+    },
+    "Average per day" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Promedio por día"
+          }
+        }
+      }
+    },
+    "By model" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por modelo"
+          }
+        }
+      }
+    },
+    "Cache" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caché"
+          }
+        }
+      }
+    },
+    "Cache read" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caché (lectura)"
+          }
+        }
+      }
+    },
+    "Cache write" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caché (escritura)"
+          }
+        }
+      }
+    },
+    "Choose which model to show, or all of them." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elige qué modelo mostrar, o todos."
+          }
+        }
+      }
+    },
+    "Claude Code tokens by model, read from ~/.claude/usage-widget.json (or stats-cache.json). Edit the widget to choose a model." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tokens de Claude Code por modelo, leídos de ~/.claude/usage-widget.json (o stats-cache.json). Edita el widget para elegir un modelo."
+          }
+        }
+      }
+    },
+    "Claude Usage" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claude Usage"
+          }
+        }
+      }
+    },
+    "Claude · %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claude · %@"
+          }
+        }
+      }
+    },
+    "Click a row to filter" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haz clic en una fila para filtrar"
+          }
+        }
+      }
+    },
+    "Click again to show all" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haz clic otra vez para ver todos"
+          }
+        }
+      }
+    },
+    "Close" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerrar"
+          }
+        }
+      }
+    },
+    "Computing usage from the Claude Code transcripts…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calculando el uso desde las transcripciones de Claude Code…"
+          }
+        }
+      }
+    },
+    "Copy" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copiar"
+          }
+        }
+      }
+    },
+    "Could not read the usage data" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se pudo leer el uso"
+          }
+        }
+      }
+    },
+    "Could not run the updater: %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se pudo ejecutar el actualizador: %@"
+          }
+        }
+      }
+    },
+    "Data as of %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datos al %@"
+          }
+        }
+      }
+    },
+    "Day" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Día"
+          }
+        }
+      }
+    },
+    "Edit" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edición"
+          }
+        }
+      }
+    },
+    "Filter %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filtrar %@"
+          }
+        }
+      }
+    },
+    "Hide %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ocultar %@"
+          }
+        }
+      }
+    },
+    "Hide Others" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ocultar otras"
+          }
+        }
+      }
+    },
+    "Input" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entrada"
+          }
+        }
+      }
+    },
+    "Last 7 days" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Últimos 7 días"
+          }
+        }
+      }
+    },
+    "Latest day · %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Último día · %@"
+          }
+        }
+      }
+    },
+    "Minimize" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minimizar"
+          }
+        }
+      }
+    },
+    "Model" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modelo"
+          }
+        }
+      }
+    },
+    "No data file" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sin archivo de datos"
+          }
+        }
+      }
+    },
+    "No data to compare" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sin datos para comparar"
+          }
+        }
+      }
+    },
+    "No data yet" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todavía no hay datos"
+          }
+        }
+      }
+    },
+    "No update date" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sin fecha de actualización"
+          }
+        }
+      }
+    },
+    "No usage" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sin uso"
+          }
+        }
+      }
+    },
+    "No usage found in ~/.claude/usage-widget.json or stats-cache.json.\nClick “Update Now” to compute it." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se encontró uso en ~/.claude/usage-widget.json ni en stats-cache.json.\nHaz clic en «Actualizar ahora» para calcularlo."
+          }
+        }
+      }
+    },
+    "No usage in this range" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sin uso en este rango"
+          }
+        }
+      }
+    },
+    "Output" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salida"
+          }
+        }
+      }
+    },
+    "Peak day" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Día más fuerte"
+          }
+        }
+      }
+    },
+    "Quit %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salir de %@"
+          }
+        }
+      }
+    },
+    "Range" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rango"
+          }
+        }
+      }
+    },
+    "Select All" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccionar todo"
+          }
+        }
+      }
+    },
+    "Sessions" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sesiones"
+          }
+        }
+      }
+    },
+    "Sessions · all models" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sesiones · todos los modelos"
+          }
+        }
+      }
+    },
+    "Share" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Participación"
+          }
+        }
+      }
+    },
+    "Show All" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar todo"
+          }
+        }
+      }
+    },
+    "Show all models" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ver todos los modelos"
+          }
+        }
+      }
+    },
+    "The file has no per-day breakdown: input, output and cache are only shown for “All time”." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El archivo no trae el desglose por día: entrada, salida y caché solo se ven en «Todo»."
+          }
+        }
+      }
+    },
+    "The updater failed (code %lld)." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El actualizador falló (código %lld)."
+          }
+        }
+      }
+    },
+    "The updater failed: %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El actualizador falló: %@"
+          }
+        }
+      }
+    },
+    "The updater took too long and was stopped." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El actualizador tardó demasiado y se detuvo."
+          }
+        }
+      }
+    },
+    "Today" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoy"
+          }
+        }
+      }
+    },
+    "Today by model" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoy por modelo"
+          }
+        }
+      }
+    },
+    "Tokens" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tokens"
+          }
+        }
+      }
+    },
+    "Tokens per day" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tokens por día"
+          }
+        }
+      }
+    },
+    "Total" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total"
+          }
+        }
+      }
+    },
+    "Total · 30 days" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total · 30 días"
+          }
+        }
+      }
+    },
+    "Total · 7 days" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total · 7 días"
+          }
+        }
+      }
+    },
+    "Total · all time" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total · todo"
+          }
+        }
+      }
+    },
+    "Total · today" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total · hoy"
+          }
+        }
+      }
+    },
+    "Update Now" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualizar ahora"
+          }
+        }
+      }
+    },
+    "Updated %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualizado %@"
+          }
+        }
+      }
+    },
+    "Updater script not found. Install it with tools/install_updater.sh." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se encontró el actualizador. Instálalo con tools/install_updater.sh."
+          }
+        }
+      }
+    },
+    "Updating…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualizando…"
+          }
+        }
+      }
+    },
+    "Window" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ventana"
+          }
+        }
+      }
+    },
+    "Zoom" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zoom"
+          }
+        }
+      }
+    },
+    "in %lld days" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "in %lld day"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "in %lld days"
+                }
+              }
+            }
+          }
+        },
+        "es" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "en %lld día"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "en %lld días"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "just now" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hace un momento"
+          }
+        }
+      }
+    },
+    "no usage" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "sin uso"
+          }
+        }
+      }
+    },
+    "since %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "desde el %@"
+          }
+        }
+      }
+    },
+    "tokens in total" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "tokens en total"
+          }
+        }
+      }
+    },
+    "tokens since %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "tokens desde el %@"
+          }
+        }
+      }
+    },
+    "vs. previous 30 days" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "vs. los 30 días anteriores"
+          }
+        }
+      }
+    },
+    "vs. previous 7 days" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "vs. los 7 días anteriores"
+          }
+        }
+      }
+    },
+    "vs. yesterday" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "vs. ayer"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
